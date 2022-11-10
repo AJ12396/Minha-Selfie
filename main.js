@@ -33,10 +33,10 @@ function speak(){
 
 var webcam = document.getElementById("camera")
 Webcam.set({
-    largura: 320,
-    altura: 240,
+    largura: 310,
+    altura: 300,
     image_format: 'jpeg',
-    jpeg_quality: 90
+    jpeg_quality: 100
  });
 
  function takeSefie() {
