@@ -1,0 +1,25 @@
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#textbox
+{
+    width: 300px;
+}
+
+.containerInterno {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+#logoImg{
+    width: 150px;
+    border-radius: 100px;
+}
+
